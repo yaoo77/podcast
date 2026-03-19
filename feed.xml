@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>AI木曜会 ポッドキャスト</title>
+    <title>AIオタクのひとりごと</title>
     <link>https://www.youtube.com/@kawaseaoi_AI</link>
     <language>ja</language>
-    <description>AI木曜会のYouTube動画を音声で聴けるポッドキャスト。生成AI活用の最新情報をお届けします。</description>
-    <itunes:author>河瀬 葵 / AI木曜会</itunes:author>
+    <description>AIオタクのひとりごと - YouTube動画を音声で聴けるポッドキャスト。生成AI活用の最新情報をお届けします。</description>
+    <itunes:author>河瀬 葵 / AIオタクのひとりごと</itunes:author>
     <itunes:owner>
       <itunes:name>河瀬 葵</itunes:name>
       <itunes:email>aoioneforall77@gmail.com</itunes:email>
